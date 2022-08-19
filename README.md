@@ -1,4 +1,4 @@
-# Grafana | Prometheus | cadvisor | Node exporter
+# Grafana | Prometheus | cAdvisor | Node exporter
 
 ```bash
 # clone this repo 
