@@ -1,7 +1,11 @@
 # Grafana | Prometheus | cadvisor | Node exporter
 
-- run `docker-compose up -d` to start the containers
+```bash
+# clone this repo 
+git clone https://github.com/concosminx/grafana-dc.git
 
-- access grafana on URL `http://ip:3000` with credentials `admin/admin`
+# start the containers
+docker-compose up -d
 
-- run `docker-compose down` to stop the containers
+# access grafana on URL `http://ip:3000` with credentials `admin/admin`
+```
