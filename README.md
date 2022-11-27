@@ -1,5 +1,7 @@
 # Grafana | Prometheus | cAdvisor | Node exporter
 
+[![CI](https://github.com/concosminx/grafana-dc/actions/workflows/blank.yml/badge.svg)](https://github.com/concosminx/grafana-dc/actions/workflows/blank.yml)
+
 ```bash
 # clone this repo 
 git clone https://github.com/concosminx/grafana-dc.git
