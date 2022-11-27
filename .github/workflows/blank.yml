@@ -31,5 +31,5 @@ jobs:
         
       # Test the stack
       - name: Test the stack
-        run: docker run --network grafana-dc_default:grafana appropriate/curl -s --retry 10 --retry-connrefused http://localhost:3000/
+        run: docker run --network grafana-dc_default appropriate/curl -s --retry 10 --retry-connrefused http://localhost:3000/
 
